@@ -59,7 +59,7 @@ $totalRows_ProjView = mysql_num_rows($ProjView);
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><a href="../Jiloa/Development/DevTrackSum.php?projid=0">0</a></td>
+    <td align="center"><a href="../Development/DevTrackSum.php?projid=0">0</a></td>
     <td>&nbsp;</td>
     <td align="center">id</td>
     <td align="center">Project Name</td>
